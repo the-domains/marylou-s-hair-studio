@@ -1,0 +1,14 @@
+layout_spectrum: 0.9736842
+typography_spectrum: 0.9951664
+color:
+  saturation: 0.1627282
+  lightness: 0.4194415
+  brandStrength: 1
+  brandColors:
+    - '#000000'
+    - '#B39353'
+    - '#AD7502'
+    - '#CFBE9B'
+    - '#666564'
+  rhythmicContrast: 0.1960257
+name: "Marylou's Hair Studio"
