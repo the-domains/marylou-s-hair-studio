@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Marylou's Hair Studio]]></title>
+        <description><![CDATA[Marylou's Hair Studio]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 14 Apr 2016 15:09:29 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ole truck]]></title>
+            <description><![CDATA[<article><h1>Ole truck</h1><p>1934 Flatbed Ford truck. Image for sale.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf401426-b5dc-41f4-900f-42ff499f29a0.jpg"></article>]]></description>
+            <link>undefinedole-truck/index.html</link>
+            <guid isPermaLink="false">23ceb494-4ea2-4479-bf24-4a7073cd3bf1</guid>
+            <pubDate>Thu, 14 Apr 2016 15:09:27 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
