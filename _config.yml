@@ -1,14 +1,26 @@
-layout_spectrum: 0.9736842
-typography_spectrum: 0.9951664
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.07787325
 color:
-  saturation: 0.1627282
-  lightness: 0.4194415
+  saturation: 0.4688507
   brandStrength: 1
+  lightness: 0.4162191
   brandColors:
-    - '#000000'
-    - '#B39353'
-    - '#AD7502'
-    - '#CFBE9B'
-    - '#666564'
-  rhythmicContrast: 0.1960257
+    - '#FFFFFF'
+    - '#0A090E'
+    - '#E9A37F'
+    - '#594E52'
+    - '#B57559'
+  rhythmicContrast: 0.5171858
+layout_spectrum: 0.9736842
 name: "Marylou's Hair Studio"
